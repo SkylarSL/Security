@@ -56,4 +56,4 @@ int main(int argc, char* argv[]){
 
         return 0;
 }
-~          
+// FUCK this thing "~", it cost me marks          
